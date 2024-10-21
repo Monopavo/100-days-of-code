@@ -2,11 +2,11 @@
 
 ### Day 1: 21st October, 2024
 
-**Today's Progress**: 
+**Today's Progress**: I set up a sandbox and played around with basic animations. I learned the animation shorthand, the four basic transforms (rotate, scale, translate, and skew), and some timing functions. I also had an "a-hah!" moment regarding how transform values work; they're relative to the starting position of the element, not per keyframe.
 
-**Reflections:** 
+**Reflections:** It's more entertaining than I thought, especially when using VSCode to preview and alter my animations on the fly. Next, I'd like to try and blend these animations together.
 
-**Link to work:**
+**Link to work:** https://tinyurl.com/monocss
 
 ### Day 2: 22nd October, 2024
 
