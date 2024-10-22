@@ -16,7 +16,7 @@
 
 **Reflections:** I initially wrote off vanilla CSS animations as something not worth learning, as "Tailwind will take care of it"; I'm glad I shook off that mentality. I've learned a lot already, and I'm excited to learn even more. My actual design skills need some work, though! So tacky!
 
-**Link(s) to work**: tinyurl.com/monoday2
+**Link(s) to work**: https://tinyurl.com/monoday2
 
 ---
 
