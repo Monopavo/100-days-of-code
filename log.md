@@ -32,11 +32,11 @@
 
 ### Day 4: 24th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I explored the "clip-path:" property and touched up the responsiveness of my project pages a bit. Slow day, but I'm letting everything sink right in.
 
-**Reflections:** TBC
+**Reflections:** "clip-path:" is powerful, but finicky; especially "clip-path: polygon()"; you pretty much need to use a visual representation of the vertices in order to use it effectively, such as a premade .svg image or a generator like Clippy. From browsing around, I saw that "Canvas API" is the preferred method for drawing shapes, but it requires JavaScript. I suppose in terms of pure CSS, "clip-path" is the best option for complex shapes. It already feels like I'm close to learning all I need to learn for intermediate / advanced CSS, so I'm going to begin React next week.
 
-**Link(s) to work:**
+**Link(s) to work:** https://tinyurl.com/monoday4
 
 ---
 
