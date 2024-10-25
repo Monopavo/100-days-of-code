@@ -42,11 +42,11 @@
 
 ### Day 5: 25th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I tried out the "perspective:" property, and created a couple of simple 3D animations alongside a more complex card-flipping animation.
 
-**Reflections:** TBC
+**Reflections:** Today surprised me. I didn't know you could imitate 3D animations with pure CSS, even though it seems pretty obvious in hindsight; after all, how else are all these 3D libraries created? It's likely much harder to use instead of importing a 3D library, but I feel much more informed from trying out "perspective:" as it's given me a sense of how far you can manipulate space on a webpage. "scroll-behavior:" tomorrow, then I'll jump on to learning React. I might continue updating my CSS sandbox with mini "artworks" for the rest of the challenge; it'd be good to have a truly creative outlet, plus it'll consolidate my CSS animation skills.  
 
-**Link(s) to work:**
+**Link(s) to work:** https://tinyurl.com/monoday5
 
 ---
 
