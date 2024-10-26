@@ -52,11 +52,11 @@
 
 ### Day 6: 26th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I played around with different "scroll-" properties, and why a website can feel "snappy" or "smooth". It's a bit difficult to test out all the properties with how I've structured the divs in my project, but that in itself is a learning experience; plan out the structure of both the .html AND .css files before coding a webpage, let alone a website.  
 
-**Reflections:** TBC
+**Reflections:** On review, I noticed that my CSS style is slowly trending towards modular utility classes; at least the transition to Tailwind won't be too difficult, I suppose. I'm itching to start React, but I'll run through all I've learned this week tomorrow instead and start fresh on Monday.
 
-**Link(s) to work:**
+**Link(s) to work:** https://tinyurl.com/monoday6
 
 ---
 
@@ -69,3 +69,71 @@
 **Link(s) to work:**
 
 ---
+
+### Day 8: 28th October, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 9: 29th October, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 10: 30th October, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 11: 31st October, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 12: 1st November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 13: 2nd November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 14: 3rd November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
