@@ -62,11 +62,11 @@
 
 ### Day 7: 27th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I tried to make a particle animation with pure CSS, but being unable to use mathematical expressions for randomisation made it a pain. SASS is my next step once I get the basics of React down, as I'm feeling the limits of pure CSS when it comes to dynamic animations and styling. I also poked my nose into a little TypeScript, and I'm interested in static typing; it seems like a lot of busy-work, but being declarative with your data types, creating custom types, and catching errors before compiling sounds neat. I'm starting React tomorrow, so I'm excited to get into the meat of responsive UI and state management!
 
-**Reflections:** TBC
+**Reflections:** Honestly, it's pretty exciting seeing how many different directions I can branch out from just pure HTML, CSS, and JavaScript; I was afraid I'd be overwhelmed by the sheer number of libraries, frameworks, pre and post-processors, and all the other expansions that can be tacked on to the core three, but now that I've got a better grasp of the limitations of HTML, CSS, and JavaScript I can now pick and choose what to learn. It's surprisingly liberating, even at the relative start of my learning journey.
 
-**Link(s) to work:**
+**Link(s) to work:** https://tinyurl.com/monoday7
 
 ---
 
