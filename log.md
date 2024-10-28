@@ -72,11 +72,12 @@
 
 ### Day 8: 28th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I learned how Vite works, and how to configure it for GitHub Pages. It sucked up most of my time, so all I have is a component that I rendered nine times, each with a different prop value; baby steps, I suppose.
 
-**Reflections:** TBC
 
-**Link(s) to work:**
+**Reflections:** It's early days, but I adore TypeScript so far; having errors pop up instead of missing type coercion or conversion is fantastic, especially as it catches any instances before the whole project compiles. I can definitely see why people rant and rave about learning it; I'm a new convert to static types!
+
+**Link(s) to work:** https://tinyurl.com/monopttt
 
 ---
 
