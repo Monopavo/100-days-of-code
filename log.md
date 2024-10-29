@@ -83,11 +83,11 @@
 
 ### Day 9: 29th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I learned more about TypeScript interfaces, <React.StrictMode>, CSS Modules, and the general structure of a React project in terms of folders, files, and the descending "index.html => main.tsx => App.tsx => Component.tsx => componentStyle.module.css" hierarchy.  
 
-**Reflections:** TBC
+**Reflections:** After a bit of teething problems, I think CSS Modules are great, as it's much easier to handle specificity and conflicts on a component-by-component basis rather than juggling larger stylesheets. Frankly, I jumped in at the deep end with TypeScript, but I'm slowly internalising the syntax and (oddly enough) finding it easier to grasp the concepts of React with it than with JavaScript; maybe I needed a bit of complexity to engage my brain more? Regardless, I think after this project I'm going to "downgrade" to using JavaScript for React; it's been a great learning experience with TypeScript, and certainly something to aim for as soon as possible, but my current skills aren't good enough to make it worthwhile just yet. I might upgrade my "general" coding language to TypeScript and use JavaScript for React, so it isn't a wasted effort.
 
-**Link(s) to work:**
+**Link(s) to work:** https://tinyurl.com/monopttt
 
 ---
 
