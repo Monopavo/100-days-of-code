@@ -93,11 +93,11 @@
 
 ### Day 10: 30th October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** Finished my React-Typescript tic-tac-toe app. It's very rough around the edges, and I didn't care that much about styling; function over form for my React projects, for now.
 
-**Reflections:** TBC
+**Reflections:** I learned a LOT about TypeScript and state management through trial and error, and the syntax has been ingrained in my bones. The structure of interfaces is elegant, and the error detection is fantastic, but TypeScript isn't suitable for me at my current skill level and the scope of my learning projects. As such, it's back to JavaScript with me. Also, I learned the hard way that it's vital to sort out all your logic and architecture before writing a single line of code, as otherwise you'll get entangled in a web of states.
 
-**Link(s) to work:**
+**Link(s) to work:**https://tinyurl.com/monopttt
 
 ---
 
