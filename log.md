@@ -97,7 +97,7 @@
 
 **Reflections:** I learned a LOT about TypeScript and state management through trial and error, and the syntax has been ingrained in my bones. The structure of interfaces is elegant, and the error detection is fantastic, but TypeScript isn't suitable for me at my current skill level and the scope of my learning projects. As such, it's back to JavaScript with me. Also, I learned the hard way that it's vital to sort out all your logic and architecture before writing a single line of code, as otherwise you'll get entangled in a web of states.
 
-**Link(s) to work:**https://tinyurl.com/monopttt
+**Link(s) to work:** https://tinyurl.com/monopttt
 
 ---
 
