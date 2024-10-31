@@ -103,11 +103,11 @@
 
 ### Day 11: 31st October, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I started a to-do app project in React, but this time with JavaScript. In quite a short time, I managed to create multiple components and their CSS module files, set up the GH-Pages configs, and render all of my components within the grid model.  
 
-**Reflections:** TBC
+**Reflections:** I'm very glad that I tried TypeScript first, as it's given me both a greater appreciation for dynamic typing and a deeper knowledge of the underlying structure of types and props. Honestly, the sheer speed of dynamic typing is probably its greatest strength, but I miss the error-catching features of TypeScript in VSCode.
 
-**Link(s) to work:**
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
 
 ---
 
