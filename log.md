@@ -113,11 +113,11 @@
 
 ### Day 12: 1st November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I didn't make much progress in terms of React today, as I was struggling with implementing a responsive grid layout. I had lots of inconsistencies between my local build and the deployed GH-Pages build, which was probably because I was using % and em instead of rem. I'll start implementing some states tomorrow.
 
-**Reflections:** TBC
+**Reflections:** Although it ate up my day, having this issue has got me thinking more about responsive design and relative units. Without media queries, rem is by far the most consistent unit as you're scaling against the root rather than any elements.
 
-**Link(s) to work:**
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
 
 ---
 
