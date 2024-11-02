@@ -123,6 +123,16 @@
 
 ### Day 13: 2nd November, 2024
 
+**Today's Progress:** I implemented an add button to my to-do app, creating multiple list components to an array. I also went through a sizeable refactor of my styling and logic, as I was expanding my scope needlessly.
+
+**Reflections:** After I'm done with this project, I really need to get in the habit of drafting pseudocode before anything else; I've been burned twice now, and it's clearly shown me the importance of planning. I think this is especially important with React, considering you can have a component's state be defined within itself, abstracted from other components. Also, I love "position: absolute"; grid and flex are great for containers, but not so much for a responsive "root" layout without media queries.
+
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
+
+---
+
+### Day 14: 3rd November, 2024
+
 **Today's Progress:** TBC
 
 **Reflections:** TBC
@@ -131,7 +141,57 @@
 
 ---
 
-### Day 14: 3rd November, 2024
+### Day 15: 4th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 16: 5th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 17: 6th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 18: 7th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 19: 8th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 20: 9th November, 2024
 
 **Today's Progress:** TBC
 
