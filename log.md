@@ -133,11 +133,11 @@
 
 ### Day 14: 3rd November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** Got the delete and update buttons working after lots of trial and error. I also tidied up my component code by using fragments, and I discovered "prop object encapsulation"; wrapping multiple props into a single prop, and then passing that down to prevent excessive prop declarations.
 
-**Reflections:** TBC
+**Reflections:** It was a huge day regarding my understanding of props; their basic structure finally clicked with me after hours of struggling. The core issue was my lack of planning and component hierarchy management as a newcomer to React; I was essentially winging it, so I had a lot of random code on both the JSX and CSS side that made things a mess to debug. I'll make a concerted effort to draft my project's structure before committing to any big implementations, or even small prototypes. Honestly, doing everything the "wrong way" has made progress stressful yet very insightful. I feel as if everything I've learned so far is crammed tightly in the forefront of my mind after bashing my head against syntax errors for the last dozen or so hours. I'm building a rock-solid foundation; keep it up, future me!
 
-**Link(s) to work:**
+**Link(s) to work:**  https://monopavo.github.io/100-days-todo-app/
 
 ---
 
