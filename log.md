@@ -137,17 +137,17 @@
 
 **Reflections:** It was a huge day regarding my understanding of props; their basic structure finally clicked with me after hours of struggling. The core issue was my lack of planning and component hierarchy management as a newcomer to React; I was essentially winging it, so I had a lot of random code on both the JSX and CSS side that made things a mess to debug. I'll make a concerted effort to draft my project's structure before committing to any big implementations, or even small prototypes. Honestly, doing everything the "wrong way" has made progress stressful yet very insightful. I feel as if everything I've learned so far is crammed tightly in the forefront of my mind after bashing my head against syntax errors for the last dozen or so hours. I'm building a rock-solid foundation; keep it up, future me!
 
-**Link(s) to work:**  https://monopavo.github.io/100-days-todo-app/
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
 
 ---
 
 ### Day 15: 4th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I add an "edit" toggle to my "update" button, allowing it to switch between buttons depending upon the task item's editability state. I'm getting comfortable with useEffect(), and I'm slowly adding media queries to make my theme and layout more responsive.
 
-**Reflections:** TBC
+**Reflections:** useEffect() finally clicked with me; it observes the state or value encapsulated by the dependency array, and then whenever it changes it executes the code encapsulated in the first argument. Funnily enough, it seems like I've made a "CRUD" app, but I'm running out of meaningful implementations; I might consider this project finished unless I can think of any interesting ideas to push my learning further.
 
-**Link(s) to work:**
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
 
 ---
 
