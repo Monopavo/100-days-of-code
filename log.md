@@ -153,11 +153,11 @@
 
 ### Day 16: 5th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I implemented some media queries, particularly for mobile and tablet devices, as well as adding unicode symbols for my buttons rather than just text labels.
 
-**Reflections:** TBC
+**Reflections:** Once again, it's a matter of planning; as one of my first projects, I didn't take into consideration different devices and resolutions, let alone user preferences like dark mode. I've patched it into my code, but it's not as elegant as establishing these things at the beginning of a project. With modern device usage predominately being mobiles and portables, it's a much better idea to design layouts for portrait devices first. Lots of learning regarding responsive design overall, despite not much coding. Media queries are very powerful, and it's both fun and annoying trying to optimise the correct ranges for each style.
 
-**Link(s) to work:**
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
 
 ---
 
