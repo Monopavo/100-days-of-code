@@ -198,3 +198,225 @@
 **Reflections:** TBC
 
 **Link(s) to work:**
+
+---
+
+### Day 21: 10th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 22: 11th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 23: 12th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 24: 13th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 25: 14th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 26: 15th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 27: 16th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 28: 17th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 29: 18th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 30: 19th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 31: 20th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 32: 21st November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 33: 22nd November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 34: 23rd November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 35: 24th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 36: 25th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 37: 26th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 38: 27th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 39: 28th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 40: 29th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 41: 30th November, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 42: 1 December, 2024
+
+**Today's Progress:** TBC
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+
