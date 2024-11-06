@@ -163,11 +163,11 @@
 
 ### Day 17: 6th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I added the "clear" and "save" buttons today.
 
-**Reflections:** TBC
+**Reflections:** Yep, that's it; not much progress, but I'm souring a bit on this project. I've been working on this to-do app for over a week now, and I've learned a ridiculous amount, but the core, underlying structure is just too messy to try and fix; if I do, I feel like everything will unravel and break. At least using "localStorage" is surprisingly simple, which is great; I was dreading that it'd be much more difficult, considering you're writing and pulling data to and from a user's browser. 
 
-**Link(s) to work:**
+**Link(s) to work:** https://monopavo.github.io/100-days-todo-app/
 
 ---
 
