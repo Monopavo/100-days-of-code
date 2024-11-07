@@ -173,11 +173,17 @@
 
 ### Day 18: 7th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I decided to consider my to-do app project "finished", retiring it as a stepping stone. I redefined my goals going forward, with a focus on React, UI and UX design with the aid of Figma, and project planning.
 
-**Reflections:** TBC
+**Reflections:** I've learned a LOT, but it's time to start fresh with a new React project as I don't think I can draw any more learning out of it. I'll try integrating APIs next, but I'll take my time planning; I've just been winging it as an unguided beginner, whereas I need to consider a project's purpose, scope, and MVP. My main reflections on this project are that...
 
-**Link(s) to work:**
+* I need to plan more, preferably with pseudocode.
+* I need to use atomic commits, so that I feel more secure to make bigger leaps in implementation.
+* I need to establish  a mobile-first design, and then then expand the layout for larger resolutions; not the other way around.
+* I need to establish the structure and interactivity of the DOM, and THEN embellish it with styles.
+* I need to refactor and optimise my code after profiling and debugging, as pre-optimising is a major time-waster.
+
+**Link(s) to work:** N/A
 
 ---
 
