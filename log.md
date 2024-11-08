@@ -189,11 +189,11 @@
 
 ### Day 19: 8th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I got quite familiar with Figma's UI and tooling, did basic research user behaviours to enhance my designs, and searched public API listings in an attempt to get inspiration for a project idea.
 
-**Reflections:** TBC
+**Reflections:** Yet again, not much in the way of coding outside of daily maintenance. I'll have to look up how to do "0auth" later, but I'm going to start simple and use no-key APIs. The Gutenberg diagram and the concept of "reading gravity" is fascinating, and I'll definitely incorporate it in my designs going forward. It's obvious in hindsight, but Ui and UX is more of a science than I thought; it's manipulative application of psychology that is used to provoke, attract, and coerce in a (hopefully) moral way. What an interesting specialisation... and one that I might pursue later on.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
