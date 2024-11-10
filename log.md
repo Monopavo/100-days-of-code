@@ -189,9 +189,9 @@
 
 ### Day 19: 8th November, 2024
 
-**Today's Progress:** I got quite familiar with Figma's UI and tooling, did basic research user behaviours to enhance my designs, and searched public API listings in an attempt to get inspiration for a project idea.
+**Today's Progress:** I got quite familiar with Figma's UI and tooling, did basic research on user behaviours to enhance my designs, and searched public API listings in an attempt to get inspiration for a project idea.
 
-**Reflections:** Yet again, not much in the way of coding outside of daily maintenance. I'll have to look up how to do "0auth" later, but I'm going to start simple and use no-key APIs. The Gutenberg diagram and the concept of "reading gravity" is fascinating, and I'll definitely incorporate it in my designs going forward. It's obvious in hindsight, but Ui and UX is more of a science than I thought; it's manipulative application of psychology that is used to provoke, attract, and coerce in a (hopefully) moral way. What an interesting specialisation... and one that I might pursue later on.
+**Reflections:** Yet again, not much in the way of coding outside of daily maintenance. I'll have to look up how to do "0auth" later, but I'm going to start simple and use no-key APIs. The Gutenberg diagram and the concept of "reading gravity" is fascinating, and I'll definitely incorporate it in my designs going forward. It's obvious in hindsight, but Ui and UX are more of a science than I thought; it's the manipulative application of psychology that is used to provoke, attract, and coerce in a (hopefully) moral way. What an interesting specialisation... and one that I might pursue later on.
 
 **Link(s) to work:** N/A
 
@@ -199,21 +199,21 @@
 
 ### Day 20: 9th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I drafted some logic and component hierarchy trees, as well as set up my environment by downloading Tailwind CSS and all other dependencies.
 
-**Reflections:** TBC
+**Reflections:** Not too much progress, as I'm browsing around for free APIs that spark my interest. I tried out Tailwind CSS, and I have mixed feelings about it; I can see how fast you could develop prototypes once you've memorised a good number of the utility classes, however having all of those utilities chained as inline styles feels like a complete 180 from the concept of abstraction and code clarity.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 21: 10th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I decided upon a solid project idea; a search engine for free video games. After adjusting my previously planned trees, I jumped into VSCode and began composing my app, establishing the basic layout and basic object data. I've also begun to make a new logo for myself in Figma to reflect my current style sensibilities.
 
-**Reflections:** TBC
+**Reflections:** The process was far smoother than I thought; more than likely due to three days of planning behind me. I've also noticed that my speed with CLI is notably increasing, almost to the point of it being faster to reach my project's directory through GitBash than clicking on the folder itself.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
