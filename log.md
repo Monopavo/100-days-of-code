@@ -219,51 +219,51 @@
 
 ### Day 22: 11th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** Feeling a nasty cold brewing, so I'm taking a semi-day off today; mostly revision and introspection.
 
-**Reflections:** TBC
+**Reflections:** I believe I need to break down my perfectionist tendencies; what's holding me back is the desire to have all of my code perfectly optimised, and not a pixel unaligned with my styling, which is eating into precious learning time. I need to treat these projects as the stepping stones they are, rather than projects that I can proudly place on a portfolio. 
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 23: 12th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** Feeling absolutely awful today; I have a terrible headache and nasal congestion, leaving me unable to sleep. I only managed to do revision, but I did rediscover the "useContext" hook, which might bring a bit of abstraction back into my workflow.
 
-**Reflections:** TBC
+**Reflections:** N/A
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 24: 13th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** Still recovering... and I hate it. My momentum has been killed by a cold, and I'm struggling to build it back up again. Physical and mental exhaustion, but at least more revision has made defining components and state effortless to me now.
 
 **Reflections:** TBC
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 25: 14th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** My final day of pure recovery, as my symptoms are waning. I'll work on "useContext" tomorrow.
 
 **Reflections:** TBC
 
-**Link(s) to work:**
-
+**Link(s) to work:** N/A
+ 
 ---
 
 ### Day 26: 15th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I tried out the "useContext" hook, and also finished off the core components of my project. Only logic and styling are left.
 
-**Reflections:** TBC
+**Reflections:** "useContext" is much more powerful and flexible than I thought; it isn't just state and values, but entire objects that can be wrapped up and passed down. It's a full-blown data structure, so it'll take me a while to master it and figure out best practices, but it seems excellent for defining, quite literally, contextual data and states that can be used in a modular, "plug-and-play" manner. 
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
@@ -273,7 +273,7 @@
 
 **Reflections:** TBC
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
