@@ -269,9 +269,9 @@
 
 ### Day 27: 16th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I learned about using the "dotenv" package to keep API keys secure and private by employing environmental variables. I also touched on GitHub Actions, as GH Pages requires additional setup to accept .env files. 
 
-**Reflections:** TBC
+**Reflections:** I struggled a lot with setting up an API fetch query, as I was getting all tangled up in the syntax. Today has definitely shown me that I need to work on my JavaScript fundamentals instead of trying to master React; I should be mastering the underlying technology and languages rather than jumping straight to libraries and frameworks. Once this project's done, I might shift to a purist project; just HTML, CSS, and JavaScript; maybe with SASS for a bit of extra learning.
 
 **Link(s) to work:** N/A
 
