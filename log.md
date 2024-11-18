@@ -279,21 +279,21 @@
 
 ### Day 28: 17th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I finished and deployed my app prototype to Vercel.
 
-**Reflections:** TBC
+**Reflections:** I'll probably not use GitHub Pages again for React or Vite projects; the entire configuration and setup is an ordeal compared to how effortless Vercel is, even if I lose out on the pro of having my repository and Pages under the same service. There's a lot to learn about MIME and CORS... but I need to focus on my immediate goal; to become highly proficient in full-stack JavaScript development.
 
-**Link(s) to work:**
+**Link(s) to work:** https://100-days-game-grinder.vercel.app/
 
 ---
 
 ### Day 29: 18th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I brushed up on some basic JavaScript in preparation for the School Of Code BootCamp, which is a week away.
 
-**Reflections:** TBC
+**Reflections:** I decided to leave my prototype in an "MVP" state; once again, I need to treat my current projects as stepping stones for my learning journey. At the very least, the entire process of learning the basics of React has really bumped up my conceptual knowledge of OOP, app development, and Javascript as a whole. All that remains now is for me to become fluent... which might take a while, considering I keep forgetting common methods and syntax.
 
-**Link(s) to work:**
+**Link(s) to work:**  N/A
 
 ---
 
@@ -303,7 +303,7 @@
 
 **Reflections:** TBC
 
-**Link(s) to work:**
+**Link(s) to work:**  N/A
 
 ---
 
