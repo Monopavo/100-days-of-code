@@ -299,9 +299,9 @@
 
 ### Day 30: 19th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** More revision to reflect upon and address any clear weaknesses I have pre-bootcamp.
 
-**Reflections:** TBC
+**Reflections:** From what I know of JavaScript so far, my sorest spot is asynchronous programming. I conceptually understand Promises, async/await, and try/catch, but I've barely used them outside of my "Game Grinder" project. Perhaps a project involving asynchronous calls to an API would be a decent idea, but I'll have to brainstorm an interesting concept and search around for some free or rateless APIs; preferably something that isn't game-adjacent, like all of my projects on this challenge so far.
 
 **Link(s) to work:**  N/A
 
@@ -319,9 +319,9 @@
 
 ### Day 32: 21st November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I scrapped plans for an asynchronous API project; I'm using Rapid API Learn to learn the basics instead. 
 
-**Reflections:** TBC
+**Reflections:** I need to be wary of time management going forward as the School Of Code's bootcamp starts on Monday; there's no point in trying to rush my learning of asynchronous programming in less than a week, especially when I'll be taught best practices on the bootcamp itself.
 
 **Link(s) to work:**
 
