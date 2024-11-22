@@ -293,7 +293,7 @@
 
 **Reflections:** I decided to leave my prototype in an "MVP" state; once again, I need to treat my current projects as stepping stones for my learning journey. At the very least, the entire process of learning the basics of React has really bumped up my conceptual knowledge of OOP, app development, and Javascript as a whole. All that remains now is for me to become fluent... which might take a while, considering I keep forgetting common methods and syntax.
 
-**Link(s) to work:**  N/A
+**Link(s) to work:** N/A
 
 ---
 
@@ -303,17 +303,17 @@
 
 **Reflections:** From what I know of JavaScript so far, my sorest spot is asynchronous programming. I conceptually understand Promises, async/await, and try/catch, but I've barely used them outside of my "Game Grinder" project. Perhaps a project involving asynchronous calls to an API would be a decent idea, but I'll have to brainstorm an interesting concept and search around for some free or rateless APIs; preferably something that isn't game-adjacent, like all of my projects on this challenge so far.
 
-**Link(s) to work:**  N/A
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 31: 20th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I'm still deciding on an API-based project to learn asynchronous programming. In the meantime, I'm committing myself to making HackerRank, LeetCode, and Codewars part of my daily routine.
 
-**Reflections:** TBC
+**Reflections:** Although I've used Codewars before as part of my revision, I'm throwing myself into the frying pan with HackerRank and LeetCode. Even so, I need to refine my functional programming and problem-solving skills if I want to keep up and overtake my competitors for junior interviews; might as well start the habit of learning DSA nice and early. Historically speaking, I seem to learn much faster under pressure, so going through a trial by fire might just be what I need to make a bigger leap in my understanding of coding.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
@@ -323,17 +323,17 @@
 
 **Reflections:** I need to be wary of time management going forward as the School Of Code's bootcamp starts on Monday; there's no point in trying to rush my learning of asynchronous programming in less than a week, especially when I'll be taught best practices on the bootcamp itself.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A 
 
 ---
 
 ### Day 33: 22nd November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I went through a variety of challenges as part of my daily routine, leading to multiple breakthroughs and expansions in my knowledge.
 
-**Reflections:** TBC
+**Reflections:** LeetCode was very tough at my current level, but I got a huge "aha!" moment out of it; most JavaScript methods are abstracted higher-order functions that accept a callback and a value as arguments, which are then reiterated via loops. Diving into more complex topics, even at my current level, was a really good idea; even learning a smidgen about 2D Arrays/matrices has bumped up my knowledge and conceptualisation of data and its encapsulation. It feels great punching above my weight after feeling in a slump.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
