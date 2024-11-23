@@ -339,11 +339,12 @@
 
 ### Day 34: 23rd November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I focused on utilising loops and iteration, as well as learned the basics of REST APIs. 
 
-**Reflections:** TBC
 
-**Link(s) to work:**
+**Reflections:** I'm surprised how far you can get with just correctly-scoped variables and loops, even if the code gets more verbose; I suppose that's where space and time complexity comes in, but I don't feel ready for that just yet. It's also been quite fun getting into the theory and anatomy of how data interchange works; I think what was tripping me up were "Content-" entity headers, and the fact that the body can be optional depending on the HTTP method used.
+
+**Link(s) to work:** N/A
 
 ---
 
