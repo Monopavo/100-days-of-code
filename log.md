@@ -34,7 +34,7 @@
 
 **Today's Progress:** I explored the "clip-path:" property and touched up the responsiveness of my project pages a bit. Slow day, but I'm letting everything sink right in.
 
-**Reflections:** "clip-path:" is powerful, but finicky; especially "clip-path: polygon()"; you pretty much need to use a visual representation of the vertices in order to use it effectively, such as a premade .svg image or a generator like Clippy. From browsing around, I saw that "Canvas API" is the preferred method for drawing shapes, but it requires JavaScript. I suppose in terms of pure CSS, "clip-path" is the best option for complex shapes. It already feels like I'm close to learning all I need to learn for intermediate / advanced CSS, so I'm going to begin React next week.
+**Reflections:** "clip-path:" is powerful, but finicky; especially "clip-path: polygon()"; you pretty much need to use a visual representation of the vertices in order to use it effectively, such as a premade .svg image or a generator like Clippy. From browsing around, I saw that "Canvas API" is the preferred method for drawing shapes, but it requires JavaScript. I suppose in terms of pure CSS, "clip-path" is the best option for complex shapes. It already feels like I'm close to learning all I need to know for intermediate/advanced CSS, so I'm going to begin React next week.
 
 **Link(s) to work:** https://tinyurl.com/monoday4
 
@@ -62,7 +62,7 @@
 
 ### Day 7: 27th October, 2024
 
-**Today's Progress:** I tried to make a particle animation with pure CSS, but being unable to use mathematical expressions for randomisation made it a pain. SASS is my next step once I get the basics of React down, as I'm feeling the limits of pure CSS when it comes to dynamic animations and styling. I also poked my nose into a little TypeScript, and I'm interested in static typing; it seems like a lot of busy-work, but being declarative with your data types, creating custom types, and catching errors before compiling sounds neat. I'm starting React tomorrow, so I'm excited to get into the meat of responsive UI and state management!
+**Today's Progress:** I tried to make a particle animation with pure CSS, but being unable to use mathematical expressions for randomisation made it a pain. SASS is my next step once I get the basics of React down, as I'm feeling the limits of pure CSS when it comes to dynamic animations and styling. I also poked my nose into a little TypeScript, and I'm interested in static typing; it seems like a lot of busywork, but being declarative with your data types, creating custom types, and catching errors before compiling sounds neat. I'm starting React tomorrow, so I'm excited to get into the meat of responsive UI and state management!
 
 **Reflections:** Honestly, it's pretty exciting seeing how many different directions I can branch out from just pure HTML, CSS, and JavaScript; I was afraid I'd be overwhelmed by the sheer number of libraries, frameworks, pre and post-processors, and all the other expansions that can be tacked on to the core three, but now that I've got a better grasp of the limitations of HTML, CSS, and JavaScript I can now pick and choose what to learn. It's surprisingly liberating, even at the relative start of my learning journey.
 
@@ -350,11 +350,11 @@
 
 ### Day 35: 24th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** I underwent basic revision to prepare myself for the School Of Code Bootcamp, which starts tomorrow.
 
-**Reflections:** TBC
+**Reflections:** I'm trying to psyche myself up for tomorrow; Imposter Syndrome's creeping in, as I feel I don't deserve to be part of the bootcamp... but that's also my primary motivator. I've been chosen from thousands of applicants, so I can't disrespect everyone else's efforts or drag down my peers. I also feel way out of my comfort zone, but I've been throwing all my energy into learning, as well as learning how to learn, so let's hope it pays off!
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
