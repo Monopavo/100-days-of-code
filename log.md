@@ -364,17 +364,17 @@
 
 **Reflections:** TBC
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 37: 26th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** First day of the School Of Code Bootcamp; introductions and icebreakers.
 
-**Reflections:** TBC
+**Reflections:** The intro session went quite well, and everyone seems friendly... but most importantly, I have a lot to think about regarding my mindset and prospects. My Imposter Syndrome is at an all-time high in spite of psyching myself up, and my self-image issues are rearing their ugly head, but I knew I wouldn't be rid of them overnight; it'll be a long road ahead, but I've got to just grin and bear it.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
