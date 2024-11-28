@@ -378,6 +378,9 @@
 
 ---
 
+# Going to pause the updates and come back after the bootcamp. #
+
+
 ### Day 38: 27th November, 2024
 
 **Today's Progress:** TBC
