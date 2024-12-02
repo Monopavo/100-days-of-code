@@ -360,9 +360,9 @@
 
 ### Day 36: 25th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** SoC Week 1 D- Day 1: Intro session with the School Code.
 
-**Reflections:** TBC
+**Reflections:** I already have a lot to think about regarding my mindset and prospects. Also, I feel that as AI advances continue to increase, being an articulate problem-solver, a team player, and understanding DSA will be the keys to staying afloat.
 
 **Link(s) to work:** N/A
 
@@ -370,30 +370,37 @@
 
 ### Day 37: 26th November, 2024
 
-**Today's Progress:** First day of the School Of Code Bootcamp; introductions and icebreakers.
+**Today's Progress:** Soc Week 1 - Day 2: First official day of the School Of Code Bootcamp; introductions and icebreakers, as well as Ira Rainey as a guest speaker.
 
-**Reflections:** The intro session went quite well, and everyone seems friendly... but most importantly, I have a lot to think about regarding my mindset and prospects. My Imposter Syndrome is at an all-time high in spite of psyching myself up, and my self-image issues are rearing their ugly head, but I knew I wouldn't be rid of them overnight; it'll be a long road ahead, but I've got to just grin and bear it.
+**Reflections:** The intro session went quite well, and everyone seemed friendly... but most importantly, I have a lot to think about regarding my mindset and prospects. My Imposter Syndrome is at an all-time high despite psyching myself up, and my self-image issues are rearing their ugly head, but I knew I wouldn't be rid of them overnight; it'll be a long road ahead, but I've got to just grin and bear it.
 
 **Link(s) to work:** N/A
 
 ---
 
-# Going to pause the updates and come back after the bootcamp. #
+---
+---
+# IMPORTANT NOTE: #
+* All posts between Day 38 and Day 42 (inclusive) are paraphrased based on the post that I made on X/Twitter, as well as my natural recollections.
+* This is due to overwhelming internal stressors surrounding reconciling with my surival of domestic, physical, sexual abuse, and my social anxiety.
+---
+---
 
+---
 
 ### Day 38: 27th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** SoC Week 1 - Day 3: An introduction to neural networks, a presentation by Ira Rainey from Microsoft regarding Imposter Syndrome, and a fun exercise to hack into an LLM. 
 
-**Reflections:** TBC
+**Reflections:** As an introvert, I'm already surprised by my progress; I no longer feel flushed or embarrassed talking to my fantastic teammates, and even my stammering has reduced. It just goes to show that adaptation and growth are accelerated with the right stressors and environment. The highlight has to be the eye-opening presentation by Ira and achieving a Growth Mindset.
 
-**Link(s) to work:**
+**Link(s) to work:** N/A
 
 ---
 
 ### Day 39: 28th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** SoC Week 1 - Day 4:
 
 **Reflections:** TBC
 
@@ -403,7 +410,7 @@
 
 ### Day 40: 29th November, 2024
 
-**Today's Progress:** TBC
+**Today's Progress:** SoC Week 1 -Day 5:
 
 **Reflections:** TBC
 
@@ -413,6 +420,16 @@
 
 ### Day 41: 30th November, 2024
 
+**Today's Progress:** 
+
+**Reflections:** TBC
+
+**Link(s) to work:**
+
+---
+
+### Day 42: 1st December, 2024
+
 **Today's Progress:** TBC
 
 **Reflections:** TBC
@@ -421,9 +438,28 @@
 
 ---
 
-### Day 42: 1 December, 2024
+---
+---
+#IMPORTANT NOTE: #
+## Accomplished a confident self through experimenting through developing my own growth nindset. ##
+---
+---
 
-**Today's Progress:** TBC
+---
+
+### Day 43: 2nd December, 2024
+
+**Today's Progress:** SoC Week 1 - Day 1: Logical Problem Solving, JavaScript Workshop.
+
+**Reflections:** I knew going into this programme that it's about understanding the problem, but having a day focused on this concept has been eye-opening. I'm beginning to see code as an actual "language"; we're basically the interpretors or translators for a human problem. Our JavaScript workshop has really stressed this point to me, as I found myself breaking up the problem statements into separate clauses, chunking them down. Coding may not be all about math, but it sure is about knowing how to comprehend a problem. The abstraction of "interfaces" is also interestineg; I'll have to research more about it. 
+
+**Links(s) to work:**
+
+---
+
+### Day 43: 2 December, 2024
+
+**Today's Progress:** SoC Week 1 - Day 2: 
 
 **Reflections:** TBC
 
