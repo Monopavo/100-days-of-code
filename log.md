@@ -342,7 +342,7 @@
 **Today's Progress:** I focused on utilising loops and iteration, as well as learned the basics of REST APIs. 
 
 
-**Reflections:** I'm surprised how far you can get with just correctly-scoped variables and loops, even if the code gets more verbose; I suppose that's where space and time complexity comes in, but I don't feel ready for that just yet. It's also been quite fun getting into the theory and anatomy of how data interchange works; I think what was tripping me up were "Content-" entity headers, and the fact that the body can be optional depending on the HTTP method used.
+**Reflections:** I'm surprised how far you can get with just correctly-scoped variables and loops, even if the code gets more verbose; I suppose that's where space and time complexity comes in, but I don't feel ready for that just yet. It's also been quite fun getting into the theory and anatomy of how data interchange works; I think what was tripping me up were "Content-" entity-headers, and the fact that the body can be optional depending on the HTTP method used.
 
 **Link(s) to work:** N/A
 
@@ -360,7 +360,7 @@
 
 ### Day 36: 25th November, 2024
 
-**Today's Progress:** SoC Week 1 D- Day 1: Intro session with the School Code.
+**Today's Topic:** SoC Week 1 D- Day 1: Intro session with the School Code.
 
 **Reflections:** I already have a lot to think about regarding my mindset and prospects. Also, I feel that as AI advances continue to increase, being an articulate problem-solver, a team player, and understanding DSA will be the keys to staying afloat.
 
@@ -370,11 +370,9 @@
 
 ### Day 37: 26th November, 2024
 
-**Today's Progress:** Soc Week 1 - Day 2: First official day of the School Of Code Bootcamp; introductions and icebreakers, as well as Ira Rainey as a guest speaker.
+**Today's Topic:** Soc Week 1 - Day 2: First official day of the School Of Code Bootcamp; introductions and icebreakers, as well as Ira Rainey as a guest speaker.
 
 **Reflections:** The intro session went quite well, and everyone seemed friendly... but most importantly, I have a lot to think about regarding my mindset and prospects. My Imposter Syndrome is at an all-time high despite psyching myself up, and my self-image issues are rearing their ugly head, but I knew I wouldn't be rid of them overnight; it'll be a long road ahead, but I've got to just grin and bear it.
-
-**Link(s) to work:** N/A
 
 ---
 
@@ -382,7 +380,7 @@
 ---
 # IMPORTANT NOTE: #
 * All posts between Day 38 and Day 42 (inclusive) are paraphrased based on the post that I made on X/Twitter, as well as my natural recollections.
-* This is due to overwhelming internal stressors surrounding reconciling with my surival of domestic, physical, sexual abuse, and my social anxiety.
+* This is due to overwhelming internal stressors surrounding reconciling with my survival of domestic, physical, and sexual abuse, as well as my social anxiety.
 ---
 ---
 
@@ -390,17 +388,15 @@
 
 ### Day 38: 27th November, 2024
 
-**Today's Progress:** SoC Week 1 - Day 3: An introduction to neural networks, a presentation by Ira Rainey from Microsoft regarding Imposter Syndrome, and a fun exercise to hack into an LLM. 
+**Today's Topic:** SoC Week 1 - Day 3: An introduction to neural networks, a presentation by Ira Rainey from Microsoft regarding Imposter Syndrome, and a fun exercise to hack into an LLM. 
 
 **Reflections:** As an introvert, I'm already surprised by my progress; I no longer feel flushed or embarrassed talking to my fantastic teammates, and even my stammering has reduced. It just goes to show that adaptation and growth are accelerated with the right stressors and environment. The highlight has to be the eye-opening presentation by Ira and achieving a Growth Mindset.
-
-**Link(s) to work:** N/A
 
 ---
 
 ### Day 39: 28th November, 2024
 
-**Today's Progress:** SoC Week 1 - Day 4:
+**Today's Topic:** SoC Week 1 - Day 4:
 
 **Reflections:** TBC
 
@@ -410,7 +406,7 @@
 
 ### Day 40: 29th November, 2024
 
-**Today's Progress:** SoC Week 1 -Day 5:
+**Today's Topic:** SoC Week 1 - Day 5:
 
 **Reflections:** TBC
 
@@ -420,7 +416,7 @@
 
 ### Day 41: 30th November, 2024
 
-**Today's Progress:** 
+**Today's Topic:** SoC Week 1 - Day 6:
 
 **Reflections:** TBC
 
@@ -430,7 +426,7 @@
 
 ### Day 42: 1st December, 2024
 
-**Today's Progress:** TBC
+**Today's Topic:** SoC Week 1 - Day 7:
 
 **Reflections:** TBC
 
@@ -441,7 +437,7 @@
 ---
 ---
 #IMPORTANT NOTE: #
-## Accomplished a confident self through experimenting through developing my own growth nindset. ##
+## Accomplished a confident self through experimenting through developing my own growth mindset. ##
 ---
 ---
 
@@ -449,20 +445,27 @@
 
 ### Day 43: 2nd December, 2024
 
-**Today's Progress:** SoC Week 1 - Day 1: Logical Problem Solving, JavaScript Workshop.
+**Today's Topic:** SoC Week 2 - Day 1: Logical Problem Solving, JavaScript Workshop.
 
-**Reflections:** I knew going into this programme that it's about understanding the problem, but having a day focused on this concept has been eye-opening. I'm beginning to see code as an actual "language"; we're basically the interpretors or translators for a human problem. Our JavaScript workshop has really stressed this point to me, as I found myself breaking up the problem statements into separate clauses, chunking them down. Coding may not be all about math, but it sure is about knowing how to comprehend a problem. The abstraction of "interfaces" is also interestineg; I'll have to research more about it. 
-
-**Links(s) to work:**
+**Reflections:** I knew going into this programme that it's about understanding the problem, but having a day focused on this concept has been eye-opening. I'm beginning to see code as an actual "language"; we're basically the interpreters or translators for a human problem. Our JavaScript workshop has really stressed this point to me, as I found myself breaking up the problem statements into separate clauses, and chunking them down. Coding may not be all about math, but it sure is about knowing how to comprehend a problem. The abstraction of "interfaces" is also interesting; I'll have to research more about it. 
 
 ---
 
-### Day 43: 2 December, 2024
+### Day 44: 3rd December, 2024
 
-**Today's Progress:** SoC Week 1 - Day 2: 
+**Today's Topic:** SoC Week 2 - Day 2: JavaScript Recap and Workshop.
+
+**Reflections:** Fantastic session, with more paired programming through encapsulating multiple "quiz question" objects within an array. It feels great getting into a flow again, but I still have a long way to go in terms of my verbalisation skills, as well as my comfortability with juggling multiple tools and windows when sharing my screen on Zoom. I've been shying away from repetition due to my rote learning, but I'll have to embrace it and reframe it as immersion instead. My weakest point is definitely objects; I enjoy manipulating arrays and matrices, but there's something about objects that I can't abstract just yet. Nested arrays can also be a bit tricky, but it's a fun challenge. I'll have to come up with a mnemonic device to memorise it, or something.
+
+---
+
+### Day 44: 4th December, 2024
+
+**Today's Topic:** SoC Week 2 - Day 3: 
 
 **Reflections:** TBC
 
 **Link(s) to work:**
+
 
 
